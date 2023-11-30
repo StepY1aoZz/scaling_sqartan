@@ -1,0 +1,4 @@
+repository "300@siruifu@cloud.cn"
+  path "/"
+    smartbranch "/main"                   
+     
